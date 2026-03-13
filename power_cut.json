@@ -138,12 +138,12 @@
         },
         {
             "stationSerialNumber": "WMQISXM1V1-00911",
-            "sunmccuTime": 1773367241163,
-            "sunmccuDate": "2026-03-13T07:30:41Z",
+            "sunmccuTime": 1773369041910,
+            "sunmccuDate": "2026-03-13T08:00:41Z",
             "location": "PVT_Dagoretti Road_Nairobi_Kenya",
             "zone": "Nairobi_Kenya_Africa",
             "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1773367241-163169",
+            "sunmccuTxidKey": "1773369041-910334",
             "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"7\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"0\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
             "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
         },
