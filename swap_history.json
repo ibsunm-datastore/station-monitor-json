@@ -40,7 +40,7 @@
                 "t_soc_utilization": 0.0,
                 "target_dock_id": "",
                 "coldtph": 19.1,
-                "vtype": null,
+                "vtype": "eMotorcycle-2D",
                 "no_of_bps": 0,
                 "bp_dispense_status": "error",
                 "status": "error",
