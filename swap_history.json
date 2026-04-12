@@ -4,7 +4,49 @@
     "message": null,
     "responseException": null,
     "result": {
-        "totalCount": 0,
-        "recordsList": []
+        "totalCount": 1,
+        "recordsList": [
+            {
+                "transaction_id": "1776019775-634291",
+                "station_id": "WMQISXM1V1-00911",
+                "vehicle_id": "MBX000BAFSJ564413",
+                "swap_start_time": "2026-04-13T00:19:38Z",
+                "swap_end_time": "2026-04-13T00:22:17Z",
+                "duration": "00:02:39",
+                "swap_type": "Retail",
+                "total_kwhr": 3.08,
+                "incoming_bp_soc": "16.20, 11.70",
+                "soc_utilization": "83.80, 88.30",
+                "received_bpid": "INSMOMAH3109J1709413, INSMOMAH3109J1709213",
+                "incoming_bptype": "13, 13",
+                "received_docks": "qis.xm.1.sdock.15.door, qis.xm.1.sdock.13.door",
+                "mdockid": "INSMOMAD0109G302250E, INSMOMAD0109G302250E",
+                "cyclenumber": "95, 40",
+                "cycletime": "2:31:22, 2:31:22",
+                "packvoltage": "45.93, 45.84",
+                "amphr": "-31.67, -32.77",
+                "kwhr": "-1.52, -1.56",
+                "regenah": "5.71, 8.96",
+                "amphr_total": -64.44,
+                "regenah_total": 14.67,
+                "regenpercent": -22.765363128491618,
+                "maxtemp": "32.0, 34.0",
+                "distancegps": "40.59, 40.66",
+                "distancecan": "43.45, 43.48",
+                "issued_bpid": "INSMOMAH3109J1601E13,INSMOMAH3109J1604113",
+                "outgoing_bptype": "13, 13",
+                "issued_dock": "qis.xm.1.sdock.13.battery, qis.xm.1.sdock.3.battery",
+                "issued_soc": "100, 100",
+                "t_soc_utilization": 172.1,
+                "target_dock_id": "INSMOMAD0109G302250E",
+                "coldtph": 20.7,
+                "vtype": "eAuto-2D",
+                "no_of_bps": 2,
+                "bp_dispense_status": "ok",
+                "status": "ok",
+                "status_reason": "ok",
+                "failure_reason": "2615:Successfully completed Battery Swap."
+            }
+        ]
     }
 }
