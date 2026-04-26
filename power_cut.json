@@ -5,6 +5,105 @@
     "responseException": null,
     "result": [
         {
+            "stationSerialNumber": "WMQISXM1V1-00912",
+            "sunmccuTime": 1777213919736,
+            "sunmccuDate": "2026-04-26T20:01:59Z",
+            "location": "Shell_Riruta.Kawangware_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213919-736805",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00911",
+            "sunmccuTime": 1777213916404,
+            "sunmccuDate": "2026-04-26T20:01:56Z",
+            "location": "PVT_Dagoretti Road_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213916-404316",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00153",
+            "sunmccuTime": 1777213916398,
+            "sunmccuDate": "2026-04-26T20:01:56Z",
+            "location": "PROD_SERVICE_LOCATION_TEST",
+            "zone": "TEST_ZONE_02_kenya",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213916-398247",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00152",
+            "sunmccuTime": 1777213904308,
+            "sunmccuDate": "2026-04-26T20:01:44Z",
+            "location": "Peru-Lima-Siemens",
+            "zone": "Lima_Peru",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213904-308455",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"0\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"3\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00881",
+            "sunmccuTime": 1777213901189,
+            "sunmccuDate": "2026-04-26T20:01:41Z",
+            "location": "SEAOIL_Pasig_Manila_Philippines",
+            "zone": "Manila_Philippines",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213901-189195",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"2\", \"3:00\": \"0\", \"4:00\": \"0\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-02088",
+            "sunmccuTime": 1777213898264,
+            "sunmccuDate": "2026-04-26T20:01:38Z",
+            "location": "Shell_Thindigua_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213898-264035",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-02089",
+            "sunmccuTime": 1777213897481,
+            "sunmccuDate": "2026-04-26T20:01:37Z",
+            "location": "Shell_GethinKaren_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213897-481917",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00915",
+            "sunmccuTime": 1777213896528,
+            "sunmccuDate": "2026-04-26T20:01:36Z",
+            "location": "SSMKL_Mombasa_Road_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213896-528514",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
+            "stationSerialNumber": "WMQISXM1V1-00913",
+            "sunmccuTime": 1777213895739,
+            "sunmccuDate": "2026-04-26T20:01:35Z",
+            "location": "Shell_NorthView_ThikaRoad_Nairobi_Kenya",
+            "zone": "Nairobi_Kenya_Africa",
+            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
+            "sunmccuTxidKey": "1777213895-739821",
+            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"1\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
+            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
+        },
+        {
             "stationSerialNumber": "WMQISXM1V1-02016",
             "sunmccuTime": 1777213857521,
             "sunmccuDate": "2026-04-26T20:00:57Z",
@@ -56,105 +155,6 @@
             "zone": "Nairobi_Kenya_Africa",
             "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
             "sunmccuTxidKey": "1777213835-532231",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00912",
-            "sunmccuTime": 1777213829684,
-            "sunmccuDate": "2026-04-26T20:00:29Z",
-            "location": "Shell_Riruta.Kawangware_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213829-684754",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00153",
-            "sunmccuTime": 1777213826373,
-            "sunmccuDate": "2026-04-26T20:00:26Z",
-            "location": "PROD_SERVICE_LOCATION_TEST",
-            "zone": "TEST_ZONE_02_kenya",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213826-373694",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00152",
-            "sunmccuTime": 1777213814258,
-            "sunmccuDate": "2026-04-26T20:00:14Z",
-            "location": "Peru-Lima-Siemens",
-            "zone": "Lima_Peru",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213814-258226",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"0\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"3\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00881",
-            "sunmccuTime": 1777213811143,
-            "sunmccuDate": "2026-04-26T20:00:11Z",
-            "location": "SEAOIL_Pasig_Manila_Philippines",
-            "zone": "Manila_Philippines",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213811-143338",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"2\", \"3:00\": \"0\", \"4:00\": \"0\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-02088",
-            "sunmccuTime": 1777213808227,
-            "sunmccuDate": "2026-04-26T20:00:08Z",
-            "location": "Shell_Thindigua_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213808-227933",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-02089",
-            "sunmccuTime": 1777213807427,
-            "sunmccuDate": "2026-04-26T20:00:07Z",
-            "location": "Shell_GethinKaren_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213807-427076",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00915",
-            "sunmccuTime": 1777213806464,
-            "sunmccuDate": "2026-04-26T20:00:06Z",
-            "location": "SSMKL_Mombasa_Road_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213806-464411",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00913",
-            "sunmccuTime": 1777213805713,
-            "sunmccuDate": "2026-04-26T20:00:05Z",
-            "location": "Shell_NorthView_ThikaRoad_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777213805-713226",
-            "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"1\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
-            "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
-        },
-        {
-            "stationSerialNumber": "WMQISXM1V1-00911",
-            "sunmccuTime": 1777212115681,
-            "sunmccuDate": "2026-04-26T19:31:55Z",
-            "location": "PVT_Dagoretti Road_Nairobi_Kenya",
-            "zone": "Nairobi_Kenya_Africa",
-            "sunmccuRecordType": "STATION-HOURLY-MAINS-POWER-DATA",
-            "sunmccuTxidKey": "1777212115-681144",
             "sunmccuData": "{\"Hourly Mains Power Status\": {\"0:00\": \"0\", \"1:00\": \"0\", \"2:00\": \"0\", \"3:00\": \"0\", \"4:00\": \"3\", \"5:00\": \"0\", \"6:00\": \"0\", \"7:00\": \"0\", \"8:00\": \"0\", \"9:00\": \"0\", \"10:00\": \"0\", \"11:00\": \"0\", \"12:00\": \"0\", \"13:00\": \"0\", \"14:00\": \"0\", \"15:00\": \"0\", \"16:00\": \"0\", \"17:00\": \"0\", \"18:00\": \"0\", \"19:00\": \"0\", \"20:00\": \"0\", \"21:00\": \"0\", \"22:00\": \"0\", \"23:00\": \"0\"}}",
             "sunmccuSource": "{\"type\": \"NAME\", \"address\": \"qis.xm.all.health\"}"
         }
