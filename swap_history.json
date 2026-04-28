@@ -4,7 +4,49 @@
     "message": null,
     "responseException": null,
     "result": {
-        "totalCount": 0,
-        "recordsList": []
+        "totalCount": 1,
+        "recordsList": [
+            {
+                "transaction_id": "1777404622-019269",
+                "station_id": "WMQISXM1V1-02088",
+                "vehicle_id": "MD9YB1GA1RB608058",
+                "swap_start_time": "2026-04-29T01:00:24Z",
+                "swap_end_time": "2026-04-29T01:01:50Z",
+                "duration": "00:01:25",
+                "swap_type": "Retail",
+                "total_kwhr": 0.64,
+                "incoming_bp_soc": "66.50",
+                "soc_utilization": "33.50",
+                "received_bpid": "INSMOMAH3909L1112D13",
+                "incoming_bptype": "13",
+                "received_docks": "qis.xm.1.sdock.6.door",
+                "mdockid": "INSMOMAD0107J0305114",
+                "cyclenumber": "16",
+                "cycletime": "1:4:41",
+                "packvoltage": "49.50",
+                "amphr": "-12.89",
+                "kwhr": "-0.64",
+                "regenah": "0.39",
+                "amphr_total": -12.89,
+                "regenah_total": 0.39,
+                "regenpercent": -3.0256012412723043,
+                "maxtemp": "27.0",
+                "distancegps": "15.56",
+                "distancecan": "16.53",
+                "issued_bpid": "INSMOMAH3109J170A213",
+                "outgoing_bptype": "13",
+                "issued_dock": "qis.xm.1.sdock.8.battery",
+                "issued_soc": "100",
+                "t_soc_utilization": 33.5,
+                "target_dock_id": "INSMOMAD0107J0305114",
+                "coldtph": 23.4,
+                "vtype": "eMotorcycle-1D",
+                "no_of_bps": 1,
+                "bp_dispense_status": "ok",
+                "status": "ok",
+                "status_reason": "ok",
+                "failure_reason": "2615:Successfully completed Battery Swap."
+            }
+        ]
     }
 }
